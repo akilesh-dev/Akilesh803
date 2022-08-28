@@ -8,6 +8,9 @@
  2. Genesys Hackathon - E-Commerce FAQ Chatbot: https://github.com/Akilesh803/GenesysHackathon
  3. Epileptic Seizure Brain Signals Analysis: https://github.com/Akilesh803/EEG-Bern-Barcelona
  4. Artist Recommendation System: https://github.com/Akilesh803/Artist-Recommender-System
+ 
+ - My Certificates:
+ 1. Version Control With Git - https://github.com/Akilesh803/VCwithGit-cert
 <!---
 Akilesh803/Akilesh803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
