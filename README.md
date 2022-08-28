@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akilesh
+- 👋 Hi, I’m Akilesh, working as a software engineer in Optum
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on open source
