@@ -10,7 +10,7 @@
  4. Artist Recommendation System: https://github.com/Akilesh803/Artist-Recommender-System
  
  - My Certificates:
- 1. Version Control With Git - https://github.com/Akilesh803/course-certs/blob/main/5162738_Coursera%20Version%20Control%20with%20Git%206W8LK9EEM3NT.pdf
+ 1. Version Control With Git - https://github.com/Akilesh803/course-certs/blob/main/5162738_Coursera_Version_Control_with_Git_6W8LK9EEM3NT.pdf
  2. Hackerrank Problem Solving - https://github.com/Akilesh803/course-certs/blob/main/Hackerrank%20-%20Problem%20Solving(Basic).pdf
 <!---
 Akilesh803/Akilesh803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
