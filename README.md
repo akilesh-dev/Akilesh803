@@ -11,7 +11,7 @@
  
  - My Certificates:
  1. Version Control With Git - https://github.com/Akilesh803/course-certs/blob/main/5162738_Coursera_Version_Control_with_Git_6W8LK9EEM3NT.pdf
- 2. Hackerrank Problem Solving - https://github.com/Akilesh803/course-certs/blob/main/Hackerrank%20-%20Problem%20Solving(Basic).pdf
+ 2. Hackerrank Problem Solving - [https://github.com/Akilesh803/course-certs/blob/main/Hackerrank%20-%20Problem%20Solving(Basic).pdf](https://github.com/Akilesh803/course-certs/blob/main/Hackerrank_Problem_Solving_Basic.pdf)
 <!---
 Akilesh803/Akilesh803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
